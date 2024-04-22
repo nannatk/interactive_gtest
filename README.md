@@ -2,8 +2,6 @@
 
 This is an interactive, simple and quick test selector for [GoogleTest](https://github.com/google/googletest).
 
-[[_TOC_]]
-
 ## Guide
 
 This was developed to make it as simple and fast as possible in test-driven development, and to pick and choose some of the GoogleTest tests to run.
